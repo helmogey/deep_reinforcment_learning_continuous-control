@@ -32,6 +32,15 @@ Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/
 
 
 
+## Instructions
+Then run the [`Continuous_Control.ipynb`](https://github.com/helmogey/deep_reinforcment_learning_continuous-control/blob/master/Continuous_Control.ipynb) notebook using the drlnd kernel to train the DDPG agent.
+
+After trainig the model, parameters will be dumpt to `actor.pth`, `critic.pth`.
+
+
+
+
+
 
 
 
