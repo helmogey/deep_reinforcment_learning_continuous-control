@@ -42,7 +42,7 @@ with 256 x 1 as output layer.<br />.
 
 
 ## Future Work
-Use multible agent. 
+Use multiple agent. 
 
 
 
